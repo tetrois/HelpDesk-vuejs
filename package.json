@@ -1,0 +1,22 @@
+{
+  "name": "helpdesk-vuejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetrois/HelpDesk-vuejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tetrois/HelpDesk-vuejs/issues"
+  },
+  "homepage": "https://github.com/tetrois/HelpDesk-vuejs#readme",
+  "dependencies": {
+    "vue": "^3.2.31"
+  }
+}
